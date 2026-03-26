@@ -6,7 +6,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/nexzen/',   // ← added this
+  base: '/Nexzen/',   // ← added this
   server: {
     host: "::",
     port: 8080,
